@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shobith S</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shobith-s&label=Profile%20views&color=0e75b6&style=flat" alt="shobith-s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shobith-s" alt="shobith-s" /></a> </p>
-
-- 🔭 I’m currently exploring [Cloud and Edge computing](Building AI models light enough for Edge devices)
+- 🔭 I’m currently exploring Cloud and Edge computing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
