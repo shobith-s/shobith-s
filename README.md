@@ -2,7 +2,7 @@
 ## I’m interested in :
 - Machine Learning | Data Science | Edge AI | Cloud Computing
 ## I’m currently exploring :
-- CLoud and Edge computing
+- Cloud and Edge computing
 - Building AI models lightweight enough for Edge devices
 ## I’m looking to collaborate on :
 - AI/ML projects
