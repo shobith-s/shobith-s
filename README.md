@@ -7,6 +7,12 @@
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Apache Pig](https://img.shields.io/badge/apache%20pig-%23F6DC00.svg?style=for-the-badge&logo=apache-pig&logoColor=black)
 ![Cloudera](https://img.shields.io/badge/cloudera-%230070C0.svg?style=for-the-badge&logo=cloudera&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-100000?style=for-the-badge&logo=replit&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shobith-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shobith-s&theme=dark&hide_border=false)<br/>
