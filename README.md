@@ -76,7 +76,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=shobith-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shobith-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&theme=tokyonight)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shobith-s&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shobith-s&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
