@@ -80,7 +80,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shobith-s&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" style="height: 200px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobith-s&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 200px;" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=shobith-s&theme=tokyonight&hide_border=false" style="height: 200px;" />
-  <img src="https://moewalls.com/landscape/house-of-dreams-live-wallpaper/" style="height: 200px;" />
+  <!--img src="https://moewalls.com/landscape/house-of-dreams-live-wallpaper/" style="height: 200px;" /-->
 </div>
 <!--![](https://github-readme-stats.vercel.app/api?username=shobith-s&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 <!--![](https://nirzak-streak-stats.vercel.app/?user=shobith-s&theme=tokyonight&hide_border=false)<br/>-->
