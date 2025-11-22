@@ -94,7 +94,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shobith-s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/shobith-s/github-readme-stats)-->
+<!--[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/shobith-s/github-readme-stats) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
