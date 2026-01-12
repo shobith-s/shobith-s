@@ -81,7 +81,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobith-s&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 200px;" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=shobith-s&theme=dark&hide_border=false&theme=tokyonight&hide_border=false" style="height: 200px;" />
 </div>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
