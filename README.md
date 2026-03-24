@@ -79,7 +79,6 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://readme-stats-card-ruddy.vercel.app/api?username=shobith-s&theme=liquid_glass&hide_border=ture&include_all_commits=false&count_private=false" style="height: 200px; /">
   <img src="https://readme-stats-card-ruddy.vercel.app/api/top-langs/?username=shobith-s&theme=liquid_glass&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 200px;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shobith-s&theme=dark&hide_border=false" style="height: 200px;" />
 </div>
 
 ### ✍️ Random Dev Quote
