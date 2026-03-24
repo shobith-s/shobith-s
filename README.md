@@ -81,6 +81,8 @@
   <img src="https://readme-stats-card-ruddy.vercel.app/api/top-langs/?username=shobith-s&theme=liquid_glass&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="height: 200px;" />
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=shobith-s&theme=transparent)](https://git.io/streak-stats)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
