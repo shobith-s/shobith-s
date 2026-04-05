@@ -28,17 +28,14 @@ shobith = {
 ## 🚀 Featured Projects
 
 <div align="center">
-
-  <a href="https://github.com/shobith-s/YOUR-AURORA-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shobith-s&repo=YOUR-AURORA-REPO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=00F5D4" />
+  <a href="https://github.com/MikaStiebitz/Git-Gud">
+    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=MikaStiebitz&repo=Git-Gud&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/shobith-s/YOUR-PHYSIO-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shobith-s&repo=YOUR-PHYSIO-REPO&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=00F5D4" />
+  <a href="https://github.com/shobith-s/picfetcher">
+    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=shobith-s&repo=picfetcher&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/shobith-s/picftecher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shobith-s&repo=picfetcher&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=00F5D4" />
-  </a>
-
+  <a href="https://github.com/shobith-s/AURORA-V2">
+    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=shobith-s&repo=AURORA-V2&theme=radical&hide_border=true" />
 </div>
 
 ---
