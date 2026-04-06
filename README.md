@@ -45,18 +45,15 @@ shobith = {
 
 <div align="center">
   <table>
+    <!-- Frontend -->
     <tr>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-        <br>Python
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="TypeScript" />
         <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -71,18 +68,8 @@ shobith = {
         <br>Tailwind
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
-        <br>PyTorch
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-        <br>OpenCV
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+        <br>Node.js
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
@@ -92,10 +79,9 @@ shobith = {
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
         <br>Flask
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
+    </tr>
+    <!-- Databases -->
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
@@ -112,11 +98,28 @@ shobith = {
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
         <br>Firebase
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
         <br>Supabase
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+    </tr>
+    <!-- DevOps / Cloud -->
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+        <br>OpenCV
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
@@ -149,6 +152,7 @@ shobith = {
     </tr>
   </table>
 </div>
+
 
 
 ---
