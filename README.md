@@ -34,8 +34,6 @@ shobith = {
   <a href="https://github.com/shobith-s/picfetcher">
     <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=shobith-s&repo=picfetcher&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/shobith-s/AURORA-V2">
-    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=shobith-s&repo=AURORA-V2&theme=radical&hide_border=true" />
 </div>
 
 ---
