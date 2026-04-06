@@ -34,6 +34,9 @@ shobith = {
   <a href="https://github.com/shobith-s/picfetcher">
     <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=shobith-s&repo=picfetcher&theme=radical&hide_border=true" />
   </a>
+    <a href="https://github.com/shobith-s/AURORA-V2">
+    <img src="https://github-readme-stats-sable-kappa-18.vercel.app/api/pin/?username=shobith-s&repo=AURORA-V2&theme=radical&hide_border=true" />
+  </a>
 </div>
 
 ---
@@ -56,7 +59,7 @@ shobith = {
         <br>JavaScript
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
         <br>React
       </td>
       <td align="center" width="96">
@@ -67,8 +70,6 @@ shobith = {
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
         <br>Tailwind
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
         <br>PyTorch
@@ -77,6 +78,8 @@ shobith = {
         <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
         <br>TensorFlow
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
         <br>OpenCV
@@ -93,8 +96,6 @@ shobith = {
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
         <br>Node.js
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
         <br>MongoDB
@@ -111,6 +112,8 @@ shobith = {
         <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
         <br>Firebase
       </td>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
         <br>Supabase
@@ -119,8 +122,6 @@ shobith = {
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
         <br>Docker
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
         <br>AWS
@@ -148,6 +149,7 @@ shobith = {
     </tr>
   </table>
 </div>
+
 
 ---
 
