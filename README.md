@@ -163,10 +163,10 @@ shobith = {
   <table>
     <tr>
       <td align="center">
-        <img src="https://readme-stats-card-ruddy.vercel.app/api?username=shobith-s&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" height="175" />
+        <img src="https://github-stats-engine.vercel.app/api?username=shobith-s&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=5" height="175" />
       </td>
       <td align="center">
-        <img src="https://readme-stats-card-ruddy.vercel.app/api/top-langs/?username=shobith-s&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="175" />
+        <img src="https://github-stats-engine.vercel.app/api/top-langs?username=shobith-s&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=5" height="175" />
       </td>
     </tr>
     <tr>
