@@ -182,13 +182,13 @@ shobith = {
 
 ---
 
-## 📈 Contribution Graph
+<!--## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobith-s&theme=github-compact&hide_border=true&bg_color=0d1117&color=00F5D4&line=00F5D4&point=ff6b6b&area=true" />
 </div>
 
----
+--- -->
 
 ## 🌐 Let's Connect
 
