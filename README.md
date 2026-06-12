@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=SHOBITH%20S&animation=twinkling&textBg=false&fontColor=FFFFFF" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.shobiths.me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=globe&logoColor=white" alt="Portfolio"/>
   </a>
-</div>
+</div> -->
 
 <div align="center">
   <a href="https://git.io/typing-svg">
