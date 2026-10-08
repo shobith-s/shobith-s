@@ -169,7 +169,7 @@ shobith = {
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-stats-engine.vercel.app/api?username=shobith-s&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=5" height="175" />
+        <img src="https://github-readme-stats.shion.dev/api?username=shobith-s&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=5" height="175" />
       </td>
       <td align="center">
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shobith-s&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=5" height="175" />
@@ -188,21 +188,21 @@ shobith = {
 
 ---
 
-<!--## 📈 Contribution Graph
+<!-- ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobith-s&theme=github-compact&hide_border=true&bg_color=0d1117&color=00F5D4&line=00F5D4&point=ff6b6b&area=true" />
-</div>
+</div> -->
 
---- -->
+--- 
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00F5D4)](https://shobiths.me)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=00F5D4)](https://shobiths.me) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shobiths-poojary)
-<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_shxbiii_)-->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/shobith.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect@shobiths.me)
 
 </div>
