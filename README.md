@@ -172,7 +172,7 @@ shobith = {
         <img src="https://github-stats-engine.vercel.app/api?username=shobith-s&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&v=5" height="175" />
       </td>
       <td align="center">
-        <img src="https://github-stats-engine.vercel.app/api/top-langs?username=shobith-s&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=5" height="175" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shobith-s&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=5" height="175" />
       </td>
     </tr>
     <tr>
@@ -216,3 +216,20 @@ shobith = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F5D4&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=75" />
 </div>
+
+
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=shobith-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=shobith-s&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shobith-s&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=shobith-s&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shobith-s&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=shobith-s&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
